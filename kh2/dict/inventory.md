@@ -1,4 +1,4 @@
-> [Kingdom Hearts II](../index.md) / Dictionaries /
+###### [Kingdom Hearts II](../index.md) / Dictionaries /
 
 # Inventory
 

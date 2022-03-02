@@ -1,4 +1,4 @@
-> [Kingdom Hearts II](../index.md) / Memory Addresses /
+###### [Kingdom Hearts II](../index.md) / Memory Addresses /
 
 # Marked Addresses
 

@@ -1,13 +1,5 @@
 ###### [Kingdom Hearts II](../index.md) / Dictionaries /
 
-##### test
-
-#### test
-
-### test
-
-## test
-
 # Commands
 
 This table contains all entries for menu commands.
