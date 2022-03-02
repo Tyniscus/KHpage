@@ -1,4 +1,5 @@
-> Kingdom Hearts II / Memory Addresses /
+> [Kingdom Hearts II](../index.md) / Memory Addresses /
+
 # Marked Addresses
 
 This table contains all notable memory addresses that the game uses in RAM.
