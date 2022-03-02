@@ -319,7 +319,7 @@ This table contains all entries for menu commands.
 | 310      | 0136     | Tornado Ride         |       |
 | 311      | 0137     | Dodge Roll           |       |
 | 312      | 0138     | Stop Dice            |       |
-| 313      | 0139     | ◯                    |       |
+| 313      | 0139     | ⭕︎                    |       |
 | 314      | 013A     | Root Ravager         |       |
 | 315      | 013B     | Aura Guard           |       |
 | 316      | 013C     | Dismiss              |       |
@@ -328,10 +328,10 @@ This table contains all entries for menu commands.
 | 319      | 013F     | FAKE                 |       |
 | 320      | 0140     | Big Ben              |       |
 | 321      | 0141     | Air Twister          |       |
-| 322      | 0142     | ╳                    |       |
+| 322      | 0142     | ✕                    |       |
 | 323      | 0143     | Begin Game           |       |
-| 324      | 0144     | ◯                    |       |
-| 325      | 0145     | ╳                    |       |
+| 324      | 0144     | ⭕︎                    |       |
+| 325      | 0145     | ✕                    |       |
 | 326      | 0146     | Release              |       |
 | 327      | 0147     | Hop On               |       |
 | 328      | 0148     | Shift Shot           |       |
@@ -465,8 +465,8 @@ This table contains all entries for menu commands.
 | 456      | 01C8     | Healing Light        |       |
 | 457      | 01C9     | D-Charge             |       |
 | 458      | 01CA     | Begin Game           |       |
-| 459      | 01CB     | ◯                    |       |
-| 460      | 01CC     | ╳                    |       |
+| 459      | 01CB     | ⭕︎                    |       |
+| 460      | 01CC     | ✕                    |       |
 | 461      | 01CD     | Save                 |       |
 | 462      | 01CE     | High Counter         |       |
 | 463      | 01CF     | Aura Sphere          |       |
@@ -573,8 +573,8 @@ This table contains all entries for menu commands.
 | 564      | 0234     | Finish               |       |
 | 565      | 0235     | Bounce               |       |
 | 566      | 0236     | Begin Game           |       |
-| 567      | 0237     | ◯                    |       |
-| 568      | 0238     | ╳                    |       |
+| 567      | 0237     | ⭕︎                    |       |
+| 568      | 0238     | ✕                    |       |
 | 569      | 0239     | Session              |       |
 | 570      | 023A     | Last Saber           |       |
 | 571      | 023B     | Dark Cannon          |       |
@@ -593,14 +593,14 @@ This table contains all entries for menu commands.
 | 584      | 0248     | \-                   |       |
 | 585      | 0249     | Stop                 |       |
 | 586      | 024A     | Magna Storm          |       |
-| 587      | 024B     | ◯                    |       |
-| 588      | 024C     | ╳                    |       |
-| 589      | 024D     | ◯                    |       |
-| 590      | 024E     | ╳                    |       |
-| 591      | 024F     | ◯                    |       |
-| 592      | 0250     | ╳                    |       |
-| 593      | 0251     | ◯                    |       |
-| 594      | 0252     | ╳                    |       |
+| 587      | 024B     | ⭕︎                    |       |
+| 588      | 024C     | ✕                    |       |
+| 589      | 024D     | ⭕︎                    |       |
+| 590      | 024E     | ✕                    |       |
+| 591      | 024F     | ⭕︎                    |       |
+| 592      | 0250     | ✕                    |       |
+| 593      | 0251     | ⭕︎                    |       |
+| 594      | 0252     | ✕                    |       |
 | 595      | 0253     | Begin Game           |       |
 | 596      | 0254     | Approach             |       |
 | 597      | 0255     | Warp Snipe           |       |
