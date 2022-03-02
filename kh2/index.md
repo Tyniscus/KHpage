@@ -9,3 +9,4 @@ Back to [Index](../index.md)
 ## Dictionaries
 
 * [Inventory](dict/inventory.md)
+* [Commands](dict/commands.md)
