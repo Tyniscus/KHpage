@@ -5,3 +5,7 @@ Back to [Index](../index.md)
 ## Memory Addresses
 
 * [Marked](mem/marked.md)
+
+## Dictionaries
+
+* [Inventory](dict/inventory.md)
