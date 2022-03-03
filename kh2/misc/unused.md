@@ -5,6 +5,9 @@
 There are a number of files that go unused in normal gameplay. Details on such files can be found here.
 
 * [Graphics](##Graphics)
+* [Abilities](##Abilities)
+
+<br/>
 
 ## Graphics
 
@@ -15,3 +18,17 @@ There are a number of files that go unused in normal gameplay. Details on such f
 | p_lm100.bin    | ![image](../image/unused/KHII-PlaceholderShopIcon.png) | Sora's Atlantica shop icon
 | p_lm020.bin    | ![image](../image/unused/Kingdom_Hearts_II_Donald_Atlantica_Icon.png) | Donald's Atlantica shop icon
 | p_lm30.bin     | ![image](../image/unused/Kingdom_Hearts_II_Goofy_Atlantica_Icon.png) | Goofy's Atlantica shop icon
+|                | ![image](../image/unused/KHII-PeterPanShopIcon.png) | Peter Pan's shop icon (Peter Pan intended as party member?)
+| trampoline.tm2 | ![image](../image/unused/Kingdom_Hearts_II_trampoline.tm2.png) | Trampoline icon
+|                | ![image](../image/unused/Kingdom_Hearts_II_HD_M_EX350mdlx-0bbs.png) | Placeholder texture in HD remasters
+|                | ![image](../image/unused/Kingdom_Hearts_II-test-Item-012-0.png) | PS2 release item placeholder icon (later replaced with items in Final Mix)
+|                | ![image](../image/unused/Kingdom_Hearts_II-Item-108-0.png) | Early icon for Megalixir
+|                | ![image](../image/unused/Kingdom_Hearts_II-Item-005.png) | An icon for what is most likely meant to be a Hi-Ether
+|                | ![image](../image/unused/Kingdom_Hearts_II_item-11-0HD.png) | Debug item icon (HD remaster)
+
+## Abilities
+
+| Ability | HEX Id | Image | Notes |
+|---------|--------|:-----:|-------|
+| Slow 3  | 00C3   | ![image](../image/unused/tron_ab1.png) | An unused ability meant for Tron; contains the following description: "(Delete)"
+| Slow 2  | 01BD   | ![image](../image/unused/tron_ab2.png) | An unused ability meant for Tron; contains the following description: "(Delete)"
