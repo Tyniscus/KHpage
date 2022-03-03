@@ -56,7 +56,7 @@ There are a number of files that go unused in normal gameplay. Details on such f
 
 | Filename      | Image | Notes |
 |---------------|:-----:|-------|
-| H_ZZ010       | ![image](../image/unused/541px-H_ZZ010.png)                      | Sora's high-poly KH1 model; contains unused animations from KH1, including idle standing, walking, attacking, jumping, and grabbing
+| H_ZZ010       | ![image](../image/unused/541px-H_ZZ010.png)                      | Sora's high-poly KH1 model; contains player animations from KH1
 | H_CM060       | ![image](../image/unused/619px-H_CM060.png)                      | Riku with Organization XIII outfit
 | H_CM070       | ![image](../image/unused/692px-H_CM070.png)                      | KH1 Riku with wooden sword
 | H_CM080       | ![image](../image/unused/526px-H_CM080.png)                      | Kairi's KH1 model
