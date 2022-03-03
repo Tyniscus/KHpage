@@ -4,8 +4,9 @@
 
 There are a number of files that go unused in normal gameplay. Details on such files can be found here.
 
-* [Graphics](#Graphics)
-* [Abilities](#Abilities)
+* [Graphics](#graphics)
+* [Abilities](#abilities)
+* [Weapons](#weapons)
 
 <br/>
 
@@ -26,9 +27,24 @@ There are a number of files that go unused in normal gameplay. Details on such f
 |                | ![image](../image/unused/Kingdom_Hearts_II-Item-005.png) | An icon for what is most likely meant to be a Hi-Ether
 |                | ![image](../image/unused/Kingdom_Hearts_II_item-11-0HD.png) | Debug item icon (HD remaster)
 
+<br/>
+
 ## Abilities
 
 | Ability | HEX Id | Image | Notes |
 |---------|--------|:-----:|-------|
 | Slow 3  | 00C3   | ![image](../image/unused/tron_ab1.png) | An unused ability meant for Tron; contains the following description: "(Delete)"
 | Slow 2  | 01BD   | ![image](../image/unused/tron_ab2.png) | An unused ability meant for Tron; contains the following description: "(Delete)"
+
+<br/>
+
+## Weapons
+
+| Name             | Type     | HEX Id | Image | Notes |
+|------------------|----------|--------|:-----:|-------|
+| FAKE             | Keyblade | 0051   | | Has the same model as the Kingdom Key, but has no texture
+| Detection Saber  | Keyblade | 002C   | ![image](../image/unused/Detection_Saber_KHII.png) |
+| Edge of Ultima   | Keyblade | 002D   | ![image](../image/unused/600px-Edge_of_Ultima_KHII.png) |
+| Detection Staff  | Staff    | 001A   | ![image](../image/unused/Detection_staff.png) |
+| Detection Shield | Shield   | 0032   | ![image](../image/unused/Kingdom_Hearts_II_Detection_Shield.png) |
+| Detect the King  | Shield   | 0033   | ![image](../image/unused/Kingdom_Hearts_II_Detect_The_King.png) |
