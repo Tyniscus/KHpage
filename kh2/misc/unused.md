@@ -42,7 +42,7 @@ There are a number of files that go unused in normal gameplay. Details on such f
 
 | Name             | Type     | HEX Id | Image | Notes |
 |------------------|----------|--------|:-----:|-------|
-| FAKE             | Keyblade | 0051   | | Has the same model as the Kingdom Key, but has no texture
+| FAKE             | Keyblade | 0051   | | Has the same model as the Kingdom Key; has no texture in PS2 releases
 | Detection Saber  | Keyblade | 002C   | ![image](../image/unused/Detection_Saber_KHII.png) |
 | Edge of Ultima   | Keyblade | 002D   | ![image](../image/unused/600px-Edge_of_Ultima_KHII.png) |
 | Detection Staff  | Staff    | 001A   | ![image](../image/unused/Detection_staff.png) |
