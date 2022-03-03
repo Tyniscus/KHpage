@@ -66,9 +66,9 @@ The offsets may vary between different versions of the game. This table will lis
 | 02A20C9C     | 2 Byte | Maximum player HP                                                          |
 | 02A20E18     | 2 Byte | Current player MP                                                          |
 | 02A20E1C     | 2 Byte | Maximum player MP                                                          |
-| 02A20E20     | 2 Byte | Player strength stat with equipment                                        |
+| 02A20E20     | 2 Byte | Player's strength stat with equipment                                        |
 | 02A20E22     | 2 Byte | Player's magic stat with equipment                                         |
-| 02A20E24     | 2 Byte | Player defense stat with equipment                                         |
+| 02A20E24     | 2 Byte | Player's defense stat with equipment                                         |
 | 02A20E26     | 2 Byte | Maximum player AP; cannot be edited                                        |
 | 02A20E28     | 2 Byte | Player's base strength; cannot be edited                                   |
 | 02A20E2A     | 2 Byte | Player's base magic; cannot be edited                                      |
@@ -77,4 +77,4 @@ The offsets may vary between different versions of the game. This table will lis
 | 02A20E49     | Byte   | Current Drive value                                                        |
 | 02A20E4A     | Byte   | Maximum Drive value                                                        |
 | 02A20E4E     | 2 Byte | Form timer                                                                 |
-| 02A20E56     | 2 Byte | Player MP Charge timer 
+| 02A20E56     | 2 Byte | Player MP Charge timer
