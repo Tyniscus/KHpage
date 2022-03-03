@@ -48,3 +48,7 @@ There are a number of files that go unused in normal gameplay. Details on such f
 | Detection Staff  | Staff    | 001A   | ![image](../image/unused/Detection_staff.png) |
 | Detection Shield | Shield   | 0032   | ![image](../image/unused/Kingdom_Hearts_II_Detection_Shield.png) |
 | Detect the King  | Shield   | 0033   | ![image](../image/unused/Kingdom_Hearts_II_Detect_The_King.png) |
+
+<br/>
+
+## Models
