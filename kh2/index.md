@@ -14,3 +14,9 @@
 * [Commands](dict/commands.md)
 
 <br/>
+
+## Miscellaneous
+
+* [Unused Content](misc/unused.md)
+
+<br/>
