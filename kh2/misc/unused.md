@@ -43,8 +43,8 @@ There are a number of files that go unused in normal gameplay. Details on such f
 | Name             | Type     | HEX Id | Image | Notes |
 |------------------|----------|--------|:-----:|-------|
 | FAKE             | Keyblade | 0051   | | Has the same model as the Kingdom Key; has no texture in PS2 releases
-| Detection Saber  | Keyblade | 002C   | ![image](../image/unused/Detection_Saber_KHII.png) |
-| Edge of Ultima   | Keyblade | 002D   | ![image](../image/unused/600px-Edge_of_Ultima_KHII.png) |
+| Detection Saber  | Keyblade | 002C   | ![image](../image/unused/Detection_Saber_KHII.png) | Uses the same model as the Ultima Weapon from KH1, using a placeholder texture; slightly bigger than the Edge of Ultima
+| Edge of Ultima   | Keyblade | 002D   | ![image](../image/unused/600px-Edge_of_Ultima_KHII.png) | Uses the same model as the Ultima Weapon from KH1, using a placeholder texture
 | Detection Staff  | Staff    | 001A   | ![image](../image/unused/Detection_staff.png) |
 | Detection Shield | Shield   | 0032   | ![image](../image/unused/Kingdom_Hearts_II_Detection_Shield.png) |
 | Detect the King  | Shield   | 0033   | ![image](../image/unused/Kingdom_Hearts_II_Detect_The_King.png) |
