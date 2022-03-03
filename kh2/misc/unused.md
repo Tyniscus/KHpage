@@ -4,8 +4,8 @@
 
 There are a number of files that go unused in normal gameplay. Details on such files can be found here.
 
-* [Graphics](##Graphics)
-* [Abilities](##Abilities)
+* [Graphics](#Graphics)
+* [Abilities](#Abilities)
 
 <br/>
 
