@@ -7,6 +7,7 @@ There are a number of files that go unused in normal gameplay. Details on such f
 * [Graphics](#graphics)
 * [Abilities](#abilities)
 * [Weapons](#weapons)
+* [Models](#models)
 
 <br/>
 
@@ -52,3 +53,20 @@ There are a number of files that go unused in normal gameplay. Details on such f
 <br/>
 
 ## Models
+
+| Filename      | Image | Notes |
+|---------------|:-----:|-------|
+| H_ZZ010       | ![image](../image/unused/541px-H_ZZ010.png)                      | Sora's high-poly KH1 model
+| H_CM060       | ![image](../image/unused/619px-H_CM060.png)                      | Riku with Organization XIII outfit
+| H_CM070       | ![image](../image/unused/692px-H_CM070.png)                      | KH1 Riku with wooden sword
+| H_CM080       | ![image](../image/unused/526px-H_CM080.png)                      | Kairi's KH1 model
+| H_ZZ040       | ![image](../image/unused/606px-H_ZZ040.png)                      | KH1 Donald with traditional outfit
+| H_ZZ050       | ![image](../image/unused/567px-H_ZZ050.png)                      | KH1 Goofy with traditional outfit
+| N_CM060_TSURU | ![image](../image/unused/702px-N_CM060_TSURU.png)                | Squall from KH1
+| N_CM070_TSURU | ![image](../image/unused/619px-N_CM070_TSURU.png)                | Yuffie from KH1
+| N_CM080_TSURU | ![image](../image/unused/536px-N_CM080_TSURU.png)                | Aerith from KH1
+| N_CM090_TSURU | ![image](../image/unused/598px-N_CM090_TSURU.png)                | Cid from KH1
+| N_CM100_TSURU | ![image](../image/unused/656px-N_CM100_TSURU.png)                | Tidus from KH1
+| N_CM110_TSURU | ![image](../image/unused/N_CM110_TSURU.png)                      | Selphie from KH1
+| N_CM120_TSURU | ![image](../image/unused/590px-N_CM120_TSURU.png)                | Wakka from KH1
+| N_ZZ160_EV    | ![image](../image/unused/Kingdom_Hearts_II_Ansem_w_Guardian.png) | Ansem with Guardian from KH1
