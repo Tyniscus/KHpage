@@ -1,6 +1,6 @@
 ###### [Kingdom Hearts II](../index.md) / Dictionaries / [Inventory](../inventory.md) /
 
-# Other
+# Miscellaneous
 
 * [Partner Items](#partner-items)
 * [Forms](#forms)
