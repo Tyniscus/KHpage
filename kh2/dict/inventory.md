@@ -5,10 +5,9 @@
 This table contains all entries for the inventory.
 
 Categorized dictionaries can be found here:
-* Equipment
-	* [Weapons](inventory/weapons.md)
-	* [Armor](inventory/armor.md)
-	* [Accessories](inventory/accessories.md)
+* [Weapons](inventory/weapons.md)
+* [Armor](inventory/armor.md)
+* [Accessories](inventory/accessories.md)
 * [Consumable](inventory/consumable.md)
 * [Abilities](inventory/abilities.md)
 * [Key Items & Documents](inventory/documents.md)
