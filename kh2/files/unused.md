@@ -1,4 +1,4 @@
-###### [Kingdom Hearts II](../index.md) / Miscellaneous /
+###### [Kingdom Hearts II](../index.md) / Game Files /
 
 # Unused Content
 

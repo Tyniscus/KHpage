@@ -15,8 +15,9 @@
 
 <br/>
 
-## Miscellaneous
+## Game Files
 
-* [Unused Content](misc/unused.md)
+* [Unused Content](files/unused.md)
+* [Battle Portraits](files.portraits.md)
 
 <br/>
