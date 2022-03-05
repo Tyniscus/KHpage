@@ -2,7 +2,7 @@
 
 # Sora
 
-This table lists all addresses that pertain to Sora's stats.
+This table lists all addresses that pertain to Sora's values.
 
 The offsets may vary between different versions of the game. This table will list offsets in 2.5 ReMIX on PC.
 

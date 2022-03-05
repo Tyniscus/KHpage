@@ -2,11 +2,13 @@
 
 # Marked Addresses
 
-This table contains all notable memory addresses that the game uses in RAM.
+This table contains all notable spots in memory that the game uses in RAM. Trying to list all possible RAM addresses is far too daunting of a task.
 
 You can view more organized address tables here:
 
 * [Sora Addresses](marked_sora.md)
+
+RAM values can be accessed and edited through special software such as [Cheat Engine](https://www.cheatengine.org/)
 
 The offsets may vary between different versions of the game. This table will list offsets in 2.5 ReMIX on PC.
 
