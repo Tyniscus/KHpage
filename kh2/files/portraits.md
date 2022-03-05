@@ -4,8 +4,12 @@
 
 This page contains directories showing the location of Sora's and Roxas' battle portraits. Useful for those who want to mod in new ones.
 
-| Id                    | Directory                                                   | Notes                                        |
-|-----------------------|-------------------------------------------------------------|----------------------------------------------|
+All portraits are stored in a .dds container which is commonly used for representing video game textures. The following image editors support .dds files:
+* [GIMP](https://www.gimp.org/)
+* [Paint.NET](https://www.getpaint.net/)
+
+| Id                    | Directory                                                   | Notes                                       |
+|-----------------------|-------------------------------------------------------------|---------------------------------------------|
 | P_EX100               | kh2_sixth\remastered\obj\P_EX100.a.us\\-8.dds               | Sora - Base, Normal                         |
 | P_EX100_BTLF          | kh2_sixth\remastered\obj\P_EX100_BTLF.a.us\\-4.dds          | Sora - Base, Valor                          |
 | P_EX100_MAGF          | kh2_sixth\remastered\obj\P_EX100_MAGF.a.us\\-2.dds          | Sora - Base, Wisdom                         |

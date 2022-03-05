@@ -4,9 +4,9 @@
 
 This table contains all notable memory addresses that the game uses in RAM.
 
-The list below contains individual address tables that are more organized.
+You can view more organized address tables here:
 
-* [Sora Addresses](marked_sora.md) 
+* [Sora Addresses](marked_sora.md)
 
 The offsets may vary between different versions of the game. This table will list offsets in 2.5 ReMIX on PC.
 
