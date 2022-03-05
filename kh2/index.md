@@ -18,6 +18,6 @@
 ## Game Files
 
 * [Unused Content](files/unused.md)
-* [Battle Portraits](files/portraits.md)
+* [Battle Portrait Locations](files/portraits.md)
 
 <br/>
