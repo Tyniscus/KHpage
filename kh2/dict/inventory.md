@@ -4,9 +4,20 @@
 
 This table contains all entries for the inventory.
 
+Categorized dictionaries can be found here:
+* Equipment
+	* [Weapons](inventory/weapons.md)
+	* [Armor](inventory/armor.md)
+	* [Accessories](inventory/accessories.md)
+* [Consumable](inventory/consumable.md)
+* [Abilities](inventory/abilities.md)
+* [Key Items & Documents](inventory/documents.md)
+* [Synthesis](inventory/synthesis.md)
+* [Miscellaneous](inventory/other.md)
+
 | Id (DEC) | Id (HEX) | Name                        | Notes                                                 |
 | -------- | -------- | --------------------------- | ----------------------------------------------------- |
-| 0        | 0000     | \-\-\-                        | No item                                               |
+| 0        | 0000     | \-\-\-                      |                                                       |
 | 1        | 0001     | Potion                      |                                                       |
 | 2        | 0002     | Hi-Potion                   |                                                       |
 | 3        | 0003     | Ether                       |                                                       |

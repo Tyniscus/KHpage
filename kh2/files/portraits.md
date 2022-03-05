@@ -53,6 +53,6 @@ All portraits are stored in a .dds container which is commonly used for represen
 | P_EX100_SIDECAR       | kh2_sixth\remastered\obj\P_EX100_SIDECAR.a.us\\-8.dds       | Sora - Sidecar (Fighting Dragon Xemnas)     |
 | P_EX100_TR_LIGHTCYCLE | kh2_sixth\remastered\obj\P_EX100_TR_LIGHTCYCLE.a.us\\-8.dds | Sora - Space Paranoids, Lightcycle Minigame |
 | M_EX950_CARD          | kh2_fifth\remastered\obj\M_EX950_CARD.a.us\\-4.dds          | Sora - Luxord Card                          |
-| M_EX950_DICE          | kh2_fifth\remastered\obj\M_EX950_DICE.a.us\\-3.dds          | Sora - Lucord Dice                          |
+| M_EX950_DICE          | kh2_fifth\remastered\obj\M_EX950_DICE.a.us\\-3.dds          | Sora - Luxord Dice                          |
 | P_EX110               | kh2_first\remastered\obj\P_EX110.a.us\\-0.dds               | Roxas - Normal                              |
 | P_EX110_BTLF          | kh2_sixth\remastered\obj\P_EX110_BTLF.a.us\\-0.dds          | Roxas - Double Keyblade                     |
