@@ -4,8 +4,8 @@
 
 This page contains directories showing the location of Sora's and Roxas' battle portraits. Useful for those who want to mod in new ones.
 
-| Id                    | Directory                                                  | Notes                                       |
-|-----------------------|------------------------------------------------------------|---------------------------------------------|
+| Id                    | Directory                                                  | Notes                                        |
+|-----------------------|------------------------------------------------------------|----------------------------------------------|
 | P_EX100               | kh2_sixth\remastered\obj\P_EX100.a.us\\-8.dds               | Sora - Base, Normal                         |
 | P_EX100_BTLF          | kh2_sixth\remastered\obj\P_EX100_BTLF.a.us\\-4.dds          | Sora - Base, Valor                          |
 | P_EX100_MAGF          | kh2_sixth\remastered\obj\P_EX100_MAGF.a.us\\-2.dds          | Sora - Base, Wisdom                         |
