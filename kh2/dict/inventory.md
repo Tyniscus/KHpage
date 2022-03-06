@@ -4,7 +4,7 @@
 
 This table contains all entries for the inventory.
 
-Categorized dictionaries can be found here:
+For more categorized dictionaries, try these:
 * [Weapons](inventory/weapons.md)
 * [Armor](inventory/armor.md)
 * [Accessories](inventory/accessories.md)
